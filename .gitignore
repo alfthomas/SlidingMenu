@@ -14,3 +14,10 @@ gen
 .metadata/
 .metadata
 *.project
+.idea
+example/target
+library-abs-support/target
+library-core/target
+library/target
+*.iml
+
